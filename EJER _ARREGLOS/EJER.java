@@ -1,4 +1,4 @@
-public class EJER_ARREGLOS{
+public class EJER {
     static String[] meses = {"Enero","Febrero","Marzo","Abril","Mayo","Junio",
                              "Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"};
     static String[] departamentos = {"Ropa","Deportes","Juguetería"};
